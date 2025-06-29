@@ -140,6 +140,7 @@
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3483-alternating-groups-ii) |
 ## Heap (Priority Queue)
@@ -240,6 +241,7 @@
 | [0648-replace-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
