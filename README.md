@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0275-h-index-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
 | [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0542-01-matrix) |
