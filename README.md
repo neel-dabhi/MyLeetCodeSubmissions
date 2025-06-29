@@ -8,6 +8,7 @@
 | [0069-sqrtx](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0069-sqrtx) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2610-closest-prime-numbers-in-range](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2610-closest-prime-numbers-in-range) |
+| [3227-find-missing-and-repeated-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2551-apply-operations-to-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3483-alternating-groups-ii) |
 ## Divide and Conquer
@@ -109,6 +111,7 @@
 | [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3227-find-missing-and-repeated-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -327,6 +330,7 @@
 | [0733-flood-fill](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1036-rotting-oranges) |
+| [3227-find-missing-and-repeated-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Breadth-First Search
 |  |
 | ------- |
