@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0079-word-search) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
 | [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0394-decode-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0394-decode-string) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0079-word-search) |
 | [0341-flatten-nested-list-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 ## Queue
 |  |
@@ -163,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
