@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0036-valid-sudoku) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0075-sort-colors) |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0173-binary-search-tree-iterator) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
