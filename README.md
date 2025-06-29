@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -97,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
 | [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0078-subsets) |
 | [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bitmask
