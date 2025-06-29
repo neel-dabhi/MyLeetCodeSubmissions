@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
 | [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0542-01-matrix) |
 | [0648-replace-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0648-replace-words) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1036-rotting-oranges) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
 ## Prefix Sum
 |  |
 | ------- |
