@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0079-word-search) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
 ## Prefix Sum
