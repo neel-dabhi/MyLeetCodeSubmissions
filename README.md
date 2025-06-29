@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
@@ -75,4 +76,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
+## Backtracking
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
