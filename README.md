@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0355-design-twitter) |
 | [0409-longest-palindrome](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0409-longest-palindrome) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0648-replace-words) |
