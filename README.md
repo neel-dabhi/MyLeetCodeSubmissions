@@ -78,6 +78,7 @@
 | [0978-valid-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0978-valid-mountain-array) |
 | [1036-rotting-oranges](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1036-rotting-oranges) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -137,6 +138,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0908-middle-of-the-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
@@ -402,6 +404,7 @@
 | [0054-spiral-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 ## Prefix Sum
 |  |
