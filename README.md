@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0079-word-search) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0275-h-index-ii) |
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0036-valid-sudoku) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0199-binary-tree-right-side-view) |
 | [0341-flatten-nested-list-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0515-find-largest-value-in-each-tree-row) |
