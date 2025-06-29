@@ -7,6 +7,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0069-sqrtx) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2610-closest-prime-numbers-in-range](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2610-closest-prime-numbers-in-range) |
 ## Binary Search
 |  |
 | ------- |
@@ -398,4 +399,8 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
