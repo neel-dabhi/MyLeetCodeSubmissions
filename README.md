@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0023-merge-k-sorted-lists) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,14 +51,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0355-design-twitter) |
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0355-design-twitter) |
 ## Design
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0355-design-twitter) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
