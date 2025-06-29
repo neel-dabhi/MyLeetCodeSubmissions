@@ -66,6 +66,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0740-delete-and-earn) |
+| [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
 | [0967-minimum-falling-path-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1036-rotting-oranges) |
@@ -99,6 +100,7 @@
 | [0690-employee-importance](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0740-delete-and-earn) |
+| [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
 ## Two Pointers
 |  |
@@ -148,6 +150,7 @@
 | [0206-reverse-linked-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0355-design-twitter) |
+| [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
 ## Design
 |  |
@@ -159,6 +162,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0355-design-twitter) |
+| [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
 ## Merge Sort
 |  |
@@ -369,5 +373,6 @@
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
