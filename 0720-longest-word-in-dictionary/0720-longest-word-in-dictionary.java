@@ -1,3 +1,5 @@
+// TC : 
+// SC :
 class Solution {
     TrieNode root;
 
@@ -14,34 +16,32 @@ class Solution {
     }
 
     public String longestWord(String[] words) {
+        Queue<TrieNode> q = new LinkedList<>();
+        Queue<String> sq = new LinkedList<>();
+
         root = new TrieNode(' ');
+        
         for (String word : words) {
             insert(word);
         }
 
-        String result = "";
-        for (String word : words) {
-            StringBuilder sb = new StringBuilder();
-            
-            for(int i=0; i< word.length(); i++){    
-                sb.append(word.charAt(i));
+        q.add(root);
+        sq.add("");
 
-                if(!search(sb.toString())){
-                    break;
-                }
+        String currentString = "";
+        while(!q.isEmpty()){
+            TrieNode node = q.poll();
+            currentString = sq.poll();
 
-                if( i == word.length() -1 && result.length() <= word.length()){
-                    if(result.length() == word.length() && word.compareTo(result) > 0){
-                        break;
-                    }else{
-                        result = word;
-                    }
-                    
+            for(int i=25; i>=0; i--){
+                if(node.children[i] != null && node.children[i].isEnd == true ){
+                    q.add(node.children[i]);
+                    sq.add(currentString + node.children[i].val);
                 }
             }
-
         }
-        return result;
+        
+        return currentString;
     }
 
     private void insert(String word) {
@@ -57,7 +57,7 @@ class Solution {
         current.isEnd = true;
     }
 
-    private boolean search(String prefix){
+    private boolean search(String prefix) {
         TrieNode current = root;
         for (int i = 0; i < prefix.length(); i++) {
             char ch = prefix.charAt(i);
