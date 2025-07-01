@@ -6,6 +6,7 @@ class Solution {
             for (int j = 0; j < needle.length(); j++) {
                 if (haystack.charAt(i + j) != needle.charAt(j)) {
                     flag = false;
+                    break;
                 }
             }
             if (flag){
