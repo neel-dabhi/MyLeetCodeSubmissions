@@ -310,6 +310,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -327,6 +328,7 @@
 | [0200-number-of-islands](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -398,6 +400,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1035-cousins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1035-cousins-in-binary-tree) |
@@ -419,6 +422,7 @@
 | [0098-validate-binary-search-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
