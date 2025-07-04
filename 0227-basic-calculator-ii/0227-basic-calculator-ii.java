@@ -1,3 +1,5 @@
+// TC : O(n)
+// SC : O(n)
 class Solution {
     public int calculate(String s) {
         Stack<Integer> st = new Stack<>();
@@ -38,6 +40,7 @@ class Solution {
             int popped = st.pop();
             st.push(popped / currNum);
         }
+        
 
         int result = 0;
         while (!st.isEmpty()) {
