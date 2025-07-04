@@ -1,3 +1,5 @@
+// TC : O(h)
+// SC : O(n)
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -16,11 +18,11 @@ class Solution {
         helper(root, p, q, new ArrayList<TreeNode>());
 
         // find commonality btwn pPath & qPath
-        
+
         TreeNode prev = null;
         for (int i = 0; i < pPath.size(); i++) {
             if (qPath.get(i) != pPath.get(i)) {
-                return qPath.get(i-1);
+                return qPath.get(i - 1);
             }
         }
         return null;
@@ -29,6 +31,9 @@ class Solution {
     private void helper(TreeNode root, TreeNode p, TreeNode q, List<TreeNode> path) {
         // base 
         if (root == null) {
+            return;
+        }
+        if(pPath != null && qPath != null){
             return;
         }
         // action
