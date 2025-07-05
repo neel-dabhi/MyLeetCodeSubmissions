@@ -31,6 +31,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
 |  |
@@ -80,6 +81,7 @@
 | [0740-delete-and-earn](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0740-delete-and-earn) |
 | [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0967-minimum-falling-path-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0967-minimum-falling-path-sum) |
 | [0978-valid-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0978-valid-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1014-k-closest-points-to-origin) |
