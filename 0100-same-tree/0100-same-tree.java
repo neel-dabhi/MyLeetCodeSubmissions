@@ -18,25 +18,20 @@
 class Solution {
 
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        return inorder(p, q);
+        return helper(p, q);
     }
 
-    private boolean inorder(TreeNode p, TreeNode q) {
+    private boolean helper(TreeNode p, TreeNode q) {
         if (p == null && q == null) {
             return true;
-        } else if (p != null && q == null) {
-            return false;
-        } else if (p == null && q != null) {
+        } else if ((p != null && q == null) || (p == null && q != null)) {
             return false;
         }
 
         if (p.val != q.val) {
             return false;
         }
-        boolean left = inorder(p.left, q.left);
-
-        boolean right = inorder(p.right, q.right);
-
-        return left && right;
+    
+        return helper(p.left, q.left) && helper(p.right, q.right);
     }
 }
