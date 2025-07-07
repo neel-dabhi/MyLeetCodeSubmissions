@@ -1,3 +1,5 @@
+// TC: O(n)
+// SC: O(h) O(1) extra space
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -15,18 +17,34 @@
  */
 class Solution {
     List<TreeNode> preOrderList = new ArrayList<TreeNode>();
-
+    TreeNode nextRight = null;
     public void flatten(TreeNode root) {
-        preorder(root);
+        
+        helper(root);
+        
+        // preorder(root);
+        // TreeNode prev = null;
+        // for (TreeNode node : preOrderList) {
+        //     if (prev != null) {
+        //         prev.right = node;
+        //         prev.left = null;
+        //     }
+        //     prev = node;
+        // }
+    }
 
-        TreeNode prev = null;
-        for (TreeNode node : preOrderList) {
-            if (prev != null) {
-                prev.right = node;
-                prev.left = null;
-            } 
-            prev = node;
+    private void helper(TreeNode root) {
+        // base case
+        if (root == null) {
+            return;
         }
+        
+        helper(root.right);
+        helper(root.left);
+
+        root.left = null;
+        root.right = nextRight;
+        nextRight = root;
     }
 
     private void preorder(TreeNode root) {
