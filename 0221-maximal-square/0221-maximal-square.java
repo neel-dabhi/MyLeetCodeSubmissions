@@ -1,5 +1,5 @@
-// TC: O(3n) -> O(n)
-// SC: O(n)
+// TC: O(m x n)
+// SC: O(m x n)
 class Solution {
     public int maximalSquare(char[][] matrix) {
         int m = matrix.length;
