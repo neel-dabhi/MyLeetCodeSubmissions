@@ -60,6 +60,7 @@
 | [0198-house-robber](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0275-h-index-ii) |
@@ -238,6 +239,7 @@
 | [0118-pascals-triangle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
@@ -399,6 +401,7 @@
 | [0074-search-a-2d-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
