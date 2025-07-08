@@ -86,6 +86,7 @@
 | [0978-valid-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0978-valid-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1036-rotting-oranges) |
+| [1121-partition-array-for-maximum-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -243,6 +244,7 @@
 | [0542-01-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0740-delete-and-earn) |
 | [0967-minimum-falling-path-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0967-minimum-falling-path-sum) |
+| [1121-partition-array-for-maximum-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1121-partition-array-for-maximum-sum) |
 ## Backtracking
 |  |
 | ------- |
