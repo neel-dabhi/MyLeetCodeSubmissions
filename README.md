@@ -56,6 +56,7 @@
 | [0088-merge-sorted-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0198-house-robber) |
@@ -116,6 +117,7 @@
 | [0049-group-anagrams](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -240,6 +242,7 @@
 | [0062-unique-paths](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0322-coin-change) |
@@ -290,6 +293,7 @@
 | [0076-minimum-window-substring](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0224-basic-calculator) |
@@ -393,6 +397,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
@@ -515,4 +520,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1014-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
