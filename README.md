@@ -7,6 +7,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0273-integer-to-english-words) |
@@ -244,6 +245,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0139-word-break) |
@@ -528,5 +530,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
