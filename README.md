@@ -137,6 +137,7 @@
 | [0409-longest-palindrome](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0525-contiguous-array) |
 | [0648-replace-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0648-replace-words) |
 | [0690-employee-importance](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0690-employee-importance) |
@@ -221,6 +222,7 @@
 | [0206-reverse-linked-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0908-middle-of-the-linked-list) |
@@ -236,6 +238,7 @@
 | [0284-peeking-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
 ## Merge Sort
@@ -411,6 +414,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0460-lfu-cache) |
 ## Trie
 |  |
 | ------- |
