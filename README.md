@@ -48,6 +48,7 @@
 | [0035-search-insert-position](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0054-spiral-matrix) |
@@ -164,6 +165,7 @@
 | [0015-3sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0142-linked-list-cycle-ii) |
@@ -262,6 +264,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0118-pascals-triangle) |
@@ -339,6 +342,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0143-reorder-list) |
@@ -565,6 +569,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0739-daily-temperatures) |
 ## Counting Sort
