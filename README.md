@@ -52,6 +52,7 @@
 | [0049-group-anagrams](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0078-subsets) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0118-pascals-triangle) |
@@ -522,6 +524,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0561-array-partition) |
