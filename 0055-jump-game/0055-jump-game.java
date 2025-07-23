@@ -1,32 +1,15 @@
-// TC: O(n^2)
-// SC: O(n)
+// TC: O(n)
+// SC: O(1)
 class Solution {
     public boolean canJump(int[] nums) {
         int n = nums.length;
-        HashSet<Integer> set = new HashSet<Integer>();
-        Queue<Integer> bfs = new LinkedList<Integer>();
+        int target = n - 1;
 
-        bfs.add(0);
-        set.add(0);
-
-        while (!bfs.isEmpty()) {
-            int currIdx = bfs.poll();
-
-            for (int i = 0; i <= nums[currIdx]; i++) {
-
-                if (currIdx + i == n - 1) {
-                    return true;
-                }
-                if (set.contains(currIdx + i)) {
-                    continue;
-                }
-                bfs.add(currIdx + i);
-                set.add(currIdx + i);
-
-            }
+        for (int i = n - 2; i >= 0; i--) {
+            if (nums[i] + i >= target) {
+                target = i;
+            } 
         }
-
-        return false;
-
+        return target == 0;
     }
 }
