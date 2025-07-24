@@ -154,6 +154,7 @@
 | [0690-employee-importance](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0740-delete-and-earn) |
+| [0768-partition-labels](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
@@ -180,6 +181,7 @@
 | [0234-palindrome-linked-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
+| [0768-partition-labels](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
@@ -345,6 +347,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0648-replace-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
+| [0768-partition-labels](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0807-custom-sort-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -536,6 +539,7 @@
 | [0409-longest-palindrome](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
 ## Simulation
 |  |
