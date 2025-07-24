@@ -79,6 +79,7 @@
 | [0322-coin-change](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0406-queue-reconstruction-by-height](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
@@ -197,6 +198,7 @@
 | [0274-h-index](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0406-queue-reconstruction-by-height](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
@@ -597,4 +599,12 @@
 | ------- |
 | [0274-h-index](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0561-array-partition) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
