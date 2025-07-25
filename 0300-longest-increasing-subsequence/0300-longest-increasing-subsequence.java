@@ -1,42 +1,19 @@
-// TC: O(n log n) binary search
+// TC: O(n^2)
 // SC: O(n)
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int[] arr = new int[nums.length];
-        int len = 1;
-
-        arr[0] = nums[0];
-
+        int[] dp = new int[nums.length];
+        Arrays.fill(dp, 1);
+        int result = 1;
         for (int i = 1; i < nums.length; i++) {
-            if (arr[len - 1] < nums[i]) {
-                arr[len] = nums[i];
-                len++;
-            } else {
-                // replace with just grater than nums[i]
-                int idx = binarySearch(arr, nums[i], len);
-                arr[idx] = nums[i];
+            for (int j = 0; j < i; j++) {
+                if (nums[j] < nums[i]) {
+                    dp[i] = Math.max(dp[i], dp[j] + 1);
+                    result = Math.max(result, dp[i]);
+                }
             }
         }
-        return len;
+        return result;
     }
 
-    private int binarySearch(int[] arr, int target, int len) {
-        int low = 0;
-        int high = len;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (arr[mid] == target) {
-                return mid;
-            } else if (arr[mid] > target) {
-                high = mid - 1;
-            } else {
-                low = mid + 1;
-            }
-        }
-
-        return low;
-
-    }
 }
