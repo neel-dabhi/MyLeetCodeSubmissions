@@ -9,14 +9,14 @@ class Solution {
         Queue<int[]> bfs = new LinkedList<>();
         Queue<int[]> explore = new LinkedList<>();
 
-        boolean flag = true;
+        outer:
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
-                if (flag && grid[i][j] == 1) {
+                if (grid[i][j] == 1) {
                     explore.add(new int[] { i, j });
                     bfs.add(new int[] { i, j });
                     grid[i][j] = -1;
-                    flag = false;
+                    break outer;
                 }
             }
         }
@@ -28,7 +28,7 @@ class Solution {
                 int x = curr[0] + dir[0];
                 int y = curr[1] + dir[1];
 
-                if (x >= 0 && y >= 0 && x < rows && y < rows && grid[x][y] == 1) {
+                if (x >= 0 && y >= 0 && x < rows && y < cols && grid[x][y] == 1) {
                     explore.add(new int[] { x, y });
                     bfs.add(new int[] { x, y });
                     grid[x][y] = -1;
