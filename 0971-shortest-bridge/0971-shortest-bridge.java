@@ -1,5 +1,5 @@
-// TC: O(n)
-// SC: O(n)
+// TC: O(nxm)
+// SC: O(nxm)
 class Solution {
     public int shortestBridge(int[][] grid) {
         int result = 0;
