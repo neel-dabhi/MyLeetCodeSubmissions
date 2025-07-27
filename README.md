@@ -85,6 +85,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0518-coin-change-ii) |
@@ -154,6 +155,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0460-lfu-cache) |
+| [0496-next-greater-element-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0648-replace-words) |
@@ -378,6 +380,7 @@
 | [0234-palindrome-linked-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0739-daily-temperatures) |
@@ -603,6 +606,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0739-daily-temperatures) |
 ## Counting Sort
