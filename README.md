@@ -355,6 +355,7 @@
 | [0273-integer-to-english-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0648-replace-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0648-replace-words) |
@@ -380,6 +381,7 @@
 | [0234-palindrome-linked-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0636-exclusive-time-of-functions) |
@@ -552,6 +554,7 @@
 | [0045-jump-game-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0621-task-scheduler) |
@@ -606,6 +609,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0739-daily-temperatures) |
