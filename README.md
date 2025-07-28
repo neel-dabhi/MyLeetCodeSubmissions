@@ -8,6 +8,7 @@
 | [0062-unique-paths](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0227-basic-calculator-ii) |
@@ -65,6 +66,7 @@
 | [0118-pascals-triangle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0189-rotate-array) |
@@ -373,6 +375,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0224-basic-calculator) |
