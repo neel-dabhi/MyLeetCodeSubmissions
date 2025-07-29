@@ -9,16 +9,15 @@ class Solution {
                 return mid;
             } else if (nums[low] <= nums[mid]) {
                 // left side is sorted
-                // check if target is in the range
-                if (nums[low] <= target && nums[mid] > target) {
+                if (target <= nums[mid] && target >= nums[low]) {
                     high = mid - 1;
                 } else {
                     low = mid + 1;
                 }
+
             } else {
                 // right side is sorted
-                // check if target is in the range
-                if (nums[mid] < target && nums[high] >= target) {
+                if (target >= nums[mid] && target <= nums[high]) {
                     low = mid + 1;
                 } else {
                     high = mid - 1;
