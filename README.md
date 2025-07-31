@@ -320,6 +320,7 @@
 | [0079-word-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0301-remove-invalid-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
@@ -361,6 +362,7 @@
 | [0227-basic-calculator-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0409-longest-palindrome) |
@@ -509,6 +511,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0529-minesweeper) |
