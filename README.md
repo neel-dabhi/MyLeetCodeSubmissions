@@ -88,6 +88,7 @@
 | [0354-russian-doll-envelopes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0406-queue-reconstruction-by-height) |
+| [0413-arithmetic-slices](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0076-minimum-window-substring) |
+| [0413-arithmetic-slices](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -306,6 +308,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0354-russian-doll-envelopes) |
+| [0413-arithmetic-slices](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0413-arithmetic-slices) |
 | [0518-coin-change-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0542-01-matrix) |
