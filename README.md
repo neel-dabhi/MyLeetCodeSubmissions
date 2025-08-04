@@ -122,6 +122,7 @@
 | [1036-rotting-oranges](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1039-find-the-town-judge) |
 | [1121-partition-array-for-maximum-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1121-partition-array-for-maximum-sum) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -510,6 +511,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1036-rotting-oranges) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3227-find-missing-and-repeated-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Breadth-First Search
 |  |
@@ -534,6 +536,7 @@
 | [0971-shortest-bridge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0971-shortest-bridge) |
 | [1035-cousins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1036-rotting-oranges) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Binary Tree
 |  |
 | ------- |
