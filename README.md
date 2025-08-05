@@ -84,6 +84,7 @@
 | [0284-peeking-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0354-russian-doll-envelopes) |
@@ -310,6 +311,7 @@
 | [0198-house-robber](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0354-russian-doll-envelopes) |
 | [0413-arithmetic-slices](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0413-arithmetic-slices) |
