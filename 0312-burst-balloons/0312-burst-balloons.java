@@ -1,45 +1,42 @@
 class Solution {
-    int[][] memo;
+    int[][] dp;
 
     public int maxCoins(int[] nums) {
         int n = nums.length;
-        memo = new int[n][n];
+        dp = new int[n][n];
 
-        return helper(nums, 0, n - 1);
-    }
+        for (int le = 1; le <= n; le++) {
 
-    private int helper(int[] nums, int i, int j) {
+            for (int i = 0; i <= n - le; i++) {
 
-        // base
-        if (i > j) {
-            return 0;
-        }
+                int j = i + le - 1;
+                int max = Integer.MIN_VALUE;
 
-        if (memo[i][j] != 0) {
-            return memo[i][j];
-        }
-        int max = Integer.MIN_VALUE;
-        for (int k = i; k <= j; k++) {
+                for (int k = i; k <= j; k++) {
 
-            int before = helper(nums, i, k - 1);
-            int after = helper(nums, k + 1, j);
+                    int before = 0;
+                    int after = 0;
 
-            int prev = 1;
-            if (i > 0) {
-                prev = nums[i - 1];
+                    if (i != k) {
+                        before = dp[i][k - 1];
+                    }
+                    if (k != j) {
+                        after = dp[k + 1][j];
+                    }
+                    int left = 1;
+                    int right = 1;
+                    if (i > 0) {
+                        left = nums[i - 1];
+                    }
+                    if (j < n - 1) {
+                        right = nums[j + 1];
+                    }
+                    int balloon = left * nums[k] * right;
+                    int total = before + balloon + after;
+                    dp[i][j] = Math.max(dp[i][j], total);;
+                }
             }
-
-            int next = 1;
-            if (j < nums.length -1) {
-                next = nums[j + 1];
-            }
-
-            int ballon = prev * nums[k] * next;
-
-            max = Math.max(max, before + ballon + after);
-            
         }
-        memo[i][j] = max;
-        return max;
+        return dp[0][n - 1];
     }
 }
