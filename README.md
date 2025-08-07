@@ -475,6 +475,7 @@
 | [0960-minimize-malware-spread](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0960-minimize-malware-spread) |
 | [0971-shortest-bridge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0971-shortest-bridge) |
 | [1035-cousins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1035-cousins-in-binary-tree) |
+| [1300-critical-connections-in-a-network](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1300-critical-connections-in-a-network) |
 ## Queue
 |  |
 | ------- |
@@ -579,6 +580,7 @@
 | [0207-course-schedule](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0207-course-schedule) |
 | [0960-minimize-malware-spread](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1039-find-the-town-judge) |
+| [1300-critical-connections-in-a-network](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1300-critical-connections-in-a-network) |
 ## Topological Sort
 |  |
 | ------- |
@@ -671,4 +673,8 @@
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0406-queue-reconstruction-by-height) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
