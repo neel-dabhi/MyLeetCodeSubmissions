@@ -1,3 +1,5 @@
+// TC: O(n)
+// SC: O(n)
 class Solution {
     public List<String> findRepeatedDnaSequences(String s) {
         int start = 0;
