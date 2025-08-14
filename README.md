@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0227-basic-calculator-ii) |
+| [0264-ugly-number-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0273-integer-to-english-words) |
 | [0923-super-egg-drop](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0923-super-egg-drop) |
 | [1014-k-closest-points-to-origin](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1014-k-closest-points-to-origin) |
@@ -167,6 +168,7 @@
 | [0187-repeated-dna-sequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0264-ugly-number-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0355-design-twitter) |
@@ -253,6 +255,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0621-task-scheduler) |
@@ -321,6 +324,7 @@
 | [0139-word-break](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0322-coin-change) |
