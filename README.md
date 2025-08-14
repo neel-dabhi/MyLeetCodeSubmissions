@@ -128,6 +128,7 @@
 | [1039-find-the-town-judge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1121-partition-array-for-maximum-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1121-partition-array-for-maximum-sum) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -618,6 +619,7 @@
 | [0289-game-of-life](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
 | [1119-robot-bounded-in-circle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1119-robot-bounded-in-circle) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1708-design-parking-system](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1708-design-parking-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
