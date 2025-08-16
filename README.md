@@ -72,6 +72,7 @@
 | [0120-triangle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -355,6 +356,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
