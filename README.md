@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0070-climbing-stairs) |
@@ -361,6 +362,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
