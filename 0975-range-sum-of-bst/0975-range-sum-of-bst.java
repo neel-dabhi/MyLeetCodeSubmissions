@@ -14,24 +14,27 @@
  * }
  */
 class Solution {
-    int result;
-
     public int rangeSumBST(TreeNode root, int low, int high) {
-        result = 0;
-        helper(root, low, high);
+        Stack<TreeNode> st = new Stack<>();
+        int result = 0;
+        while(!st.isEmpty() || root != null){
+            // go all the way left
+            while(root != null){
+                st.push(root);
+                root = root.left;
+            }
+            // process root
+            root = st.pop();
+            if(root.val >= low && root.val <= high){
+                result = result + root.val;
+            }
+            
+            // now go right
+            root = root.right;
+            
+
+        }
         return result;
     }
 
-    private void helper(TreeNode root, int low, int high){
-        if(root == null) {
-            return;
-        }
-
-        helper(root.right, low, high);
-        helper(root.left, low, high);
-
-        if((root.val <= high) && (root.val >= low)){
-            result = result + root.val;
-        }
-    }
 }
