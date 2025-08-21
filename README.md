@@ -125,6 +125,7 @@
 | [0960-minimize-malware-spread](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0960-minimize-malware-spread) |
 | [0967-minimum-falling-path-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0971-shortest-bridge) |
+| [0974-reorder-data-in-log-files](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0974-reorder-data-in-log-files) |
 | [0978-valid-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0978-valid-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1025-minimum-cost-for-tickets) |
@@ -242,6 +243,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0807-custom-sort-string) |
+| [0974-reorder-data-in-log-files](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1014-k-closest-points-to-origin) |
 | [1129-longest-string-chain](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1129-longest-string-chain) |
 ## Sliding Window
@@ -419,6 +421,7 @@
 | [0768-partition-labels](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0807-custom-sort-string) |
+| [0974-reorder-data-in-log-files](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0974-reorder-data-in-log-files) |
 | [1119-robot-bounded-in-circle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1119-robot-bounded-in-circle) |
 | [1129-longest-string-chain](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1129-longest-string-chain) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
