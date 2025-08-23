@@ -487,6 +487,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0690-employee-importance) |
 | [0975-range-sum-of-bst](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0975-range-sum-of-bst) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -517,6 +518,7 @@
 | [0960-minimize-malware-spread](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0960-minimize-malware-spread) |
 | [0971-shortest-bridge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0975-range-sum-of-bst) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1035-cousins-in-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1300-critical-connections-in-a-network) |
 ## Queue
@@ -613,6 +615,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0975-range-sum-of-bst](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0975-range-sum-of-bst) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1035-cousins-in-binary-tree) |
 ## Union Find
 |  |
