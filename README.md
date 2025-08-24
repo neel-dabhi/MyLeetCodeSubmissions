@@ -120,6 +120,7 @@
 | [0792-binary-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
+| [0862-find-and-replace-in-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0862-find-and-replace-in-string) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0945-snakes-and-ladders](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0960-minimize-malware-spread) |
@@ -194,6 +195,7 @@
 | [0807-custom-sort-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
+| [0862-find-and-replace-in-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0862-find-and-replace-in-string) |
 | [0960-minimize-malware-spread](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0960-minimize-malware-spread) |
 | [0990-verifying-an-alien-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1039-find-the-town-judge) |
@@ -245,6 +247,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0807-custom-sort-string) |
+| [0862-find-and-replace-in-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0862-find-and-replace-in-string) |
 | [0974-reorder-data-in-log-files](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1014-k-closest-points-to-origin) |
 | [1129-longest-string-chain](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1129-longest-string-chain) |
@@ -424,6 +427,7 @@
 | [0768-partition-labels](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0807-custom-sort-string) |
+| [0862-find-and-replace-in-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0862-find-and-replace-in-string) |
 | [0974-reorder-data-in-log-files](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0974-reorder-data-in-log-files) |
 | [0990-verifying-an-alien-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1119-robot-bounded-in-circle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1119-robot-bounded-in-circle) |
