@@ -12,6 +12,7 @@ class Solution {
             values.add(sources[i]); // 0 sources
             values.add(targets[i]); // 1 targets
 
+            // additional fiter add indices for which we have substings in s
             if (indices[i] + sources[i].length() <= s.length()) {
                 String sub = s.substring(indices[i], indices[i] + sources[i].length());
                 if (sources[i].equals(sub)) {
@@ -24,26 +25,12 @@ class Solution {
 
         for (int i = 0; i < s.length(); i++) {
 
-            // Potential sb-string 
             if (map.containsKey(i)) {
-                String toMatch = map.get(i).get(0);
-
-                int j = 0;
-                int k = i;
-                while (k < s.length() && j < toMatch.length() && s.charAt(k) == toMatch.charAt(j)) {
-                    j++;
-                    k++;
-                }
-
-                if (j == toMatch.length()) {
-                    // we have match append replacement
-                    result.append(map.get(i).get(1));
-                    i = k - 1;
-                } else {
-                    // matching failed append i
-                    char ch = s.charAt(i);
-                    result.append(ch);
-                }
+                // we already did matching at map
+                String matched = map.get(i).get(0);
+                String toAppend = map.get(i).get(1);
+                result.append(toAppend);
+                i = i + matched.length() -1;
             } else {
                 // do nothing
                 char ch = s.charAt(i);
