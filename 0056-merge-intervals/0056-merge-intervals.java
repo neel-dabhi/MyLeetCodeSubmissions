@@ -1,7 +1,10 @@
+// TC O(n log n)
+// SC O(n)
 class Solution {
     public int[][] merge(int[][] intervals) {
 
         ArrayList<int[]> result = new ArrayList<>();
+        
         Arrays.sort(intervals, (a, b) -> {
             return a[0] - b[0];
         });
