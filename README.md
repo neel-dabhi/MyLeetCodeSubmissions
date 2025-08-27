@@ -140,6 +140,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1080-camelcase-matching](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1080-camelcase-matching) |
+| [1097-stream-of-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1097-stream-of-characters) |
 | [1121-partition-array-for-maximum-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1129-longest-string-chain) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1382-calculate-amount-paid-in-taxes) |
@@ -321,6 +322,7 @@
 | [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
 | [0947-online-election](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0947-online-election) |
+| [1097-stream-of-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1097-stream-of-characters) |
 | [1708-design-parking-system](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1708-design-parking-system) |
 ## Merge Sort
 |  |
@@ -441,6 +443,7 @@
 | [0974-reorder-data-in-log-files](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0974-reorder-data-in-log-files) |
 | [0990-verifying-an-alien-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1080-camelcase-matching](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1080-camelcase-matching) |
+| [1097-stream-of-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1097-stream-of-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1119-robot-bounded-in-circle) |
 | [1129-longest-string-chain](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1129-longest-string-chain) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -565,6 +568,7 @@
 | [0648-replace-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [1080-camelcase-matching](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1080-camelcase-matching) |
+| [1097-stream-of-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1097-stream-of-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -758,4 +762,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
+## Data Stream
+|  |
+| ------- |
+| [1097-stream-of-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1097-stream-of-characters) |
 <!---LeetCode Topics End-->
