@@ -76,6 +76,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0136-single-number) |
@@ -349,6 +350,7 @@
 | [0072-edit-distance](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0139-word-break) |
