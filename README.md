@@ -47,6 +47,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0923-super-egg-drop](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0923-super-egg-drop) |
 | [0947-online-election](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0947-online-election) |
+| [1046-max-consecutive-ones-iii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
@@ -140,6 +141,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1039-find-the-town-judge) |
+| [1046-max-consecutive-ones-iii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1080-camelcase-matching](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1080-camelcase-matching) |
@@ -273,6 +275,7 @@
 | [0413-arithmetic-slices](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
+| [1046-max-consecutive-ones-iii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -709,6 +712,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0525-contiguous-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Function
 |  |
