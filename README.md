@@ -514,6 +514,7 @@
 | [0975-range-sum-of-bst](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1035-cousins-in-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -547,6 +548,7 @@
 | [1021-distribute-coins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1035-cousins-in-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1300-critical-connections-in-a-network) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Queue
 |  |
 | ------- |
@@ -646,6 +648,7 @@
 | [0975-range-sum-of-bst](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1035-cousins-in-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Union Find
 |  |
 | ------- |
