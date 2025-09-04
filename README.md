@@ -100,6 +100,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -167,6 +168,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
@@ -189,6 +191,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0355-design-twitter) |
 | [0409-longest-palindrome](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0409-longest-palindrome) |
@@ -252,6 +255,7 @@
 | [0088-merge-sorted-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -286,6 +290,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0621-task-scheduler) |
@@ -338,6 +343,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -723,6 +729,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
 | [1708-design-parking-system](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1708-design-parking-system) |
@@ -779,4 +786,8 @@
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1097-stream-of-characters) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
