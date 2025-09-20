@@ -3,44 +3,31 @@ class Solution {
 
     public List<List<String>> partition(String s) {
         result = new ArrayList<List<String>>();
-        helper(s, 0, new ArrayList<String>());
+        helper(s, 0, new ArrayList<>());
+
         return result;
     }
 
-    private void helper(String s, int pivot, ArrayList<String> path) {
-
+    private void helper(String s, int index, List<String> path) {
         // base
-        if (pivot == s.length()) {
-            result.add(new ArrayList(path));
+        if (index == s.length()) {
+            result.add(new ArrayList<>(path));
             return;
         }
 
-        for (int i = pivot; i < s.length(); i++) {
+        for (int i = index; i < s.length(); i++) {
+            String substring = s.substring(index, i + 1);
 
-            String curr = s.substring(pivot, i + 1);
-
-            if (isPalindrom(curr)) {
-                path.add(curr);
-
+            if (isPalindrome(substring)) {
+                path.add(substring);
                 helper(s, i + 1, path);
-
-                path.remove(path.size() - 1);
+                path.remove(path.size() -1);
             }
         }
-
     }
 
-    private boolean isPalindrom(String s) {
-        int l = 0;
-        int r = s.length() - 1;
-        while (r >= l) {
-            if (s.charAt(l) != s.charAt(r)) {
-                return false;
-            }
-            l++;
-            r--;
-        }
-        return true;
+    private boolean isPalindrome(String str) {
+        StringBuilder sb = new StringBuilder(str);
+        return str.equals(sb.reverse().toString());
     }
-
 }
