@@ -1,62 +1,66 @@
-class Trie {
-    TrieNode root;
+class TreeNode{
+    boolean isEnd;
+    TreeNode[] children;
 
-    class TrieNode {
-        Character val;
-        boolean isEnd;
-        TrieNode[] children;
-
-        TrieNode(char ch) {
-            this.val = ch;
-            this.isEnd = false;
-            this.children = new TrieNode[26];
-        }
+    TreeNode(){
+        isEnd = false;
+        children = new TreeNode[26];
     }
+}
+
+class Trie {
+    TreeNode root;
 
     public Trie() {
-        root = new TrieNode(' ');
+        root = new TreeNode();
     }
 
     public void insert(String word) {
-        TrieNode current = root;
-        for (int i = 0; i < word.length(); i++) {
-            char ch = word.charAt(i);
 
-            if (current.children[ch - 'a'] == null) {
-                current.children[ch - 'a'] = new TrieNode(ch);
+        if (!word.isEmpty()) {
+            TreeNode curr = root;
+
+            for (char ch : word.toCharArray()) {
+                if (curr.children[ch - 'a'] == null) {
+                    curr.children[ch - 'a'] = new TreeNode();
+                }
+                curr = curr.children[ch - 'a'];
             }
-            current = current.children[ch - 'a'];
+            curr.isEnd = true;
         }
-        current.isEnd = true;
+
     }
 
     public boolean search(String word) {
-        TrieNode current = root;
 
-        for (int i = 0; i < word.length(); i++) {
-            char ch = word.charAt(i);
+        if (word.isEmpty()) {
+            return false;
+        }
+        TreeNode curr = root;
 
-            if (current.children[ch - 'a'] == null) {
+        for (char ch : word.toCharArray()) {
+            if (curr.children[ch - 'a'] == null) {
                 return false;
             }
-            current = current.children[ch - 'a'];
+            curr = curr.children[ch - 'a'];
         }
-
-        return current.isEnd;
+        return curr.isEnd;
     }
 
     public boolean startsWith(String prefix) {
-        TrieNode current = root;
 
-        for (int i = 0; i < prefix.length(); i++) {
-            char ch = prefix.charAt(i);
-
-            if (current.children[ch - 'a'] == null) {
-                return false;
-            }
-            current = current.children[ch - 'a'];
+        if (prefix.isEmpty()) {
+            return false;
         }
 
+        TreeNode curr = root;
+        for (char ch : prefix.toCharArray()) {
+
+            if (curr.children[ch - 'a'] == null) {
+                return false;
+            }
+            curr = curr.children[ch - 'a'];
+        }
         return true;
     }
 }
