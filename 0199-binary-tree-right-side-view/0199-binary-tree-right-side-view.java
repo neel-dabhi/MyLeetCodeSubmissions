@@ -14,22 +14,37 @@
  * }
  */
 class Solution {
-    ArrayList<Integer> result = new ArrayList<Integer>();
     public List<Integer> rightSideView(TreeNode root) {
-        helper(root, 0);
-        return result;
-    }
+        List<Integer> result = new ArrayList<>();
 
-    private void helper(TreeNode root, int level){
-        //base
-        if(root == null) return;
-        // logic
+        Queue<TreeNode> bfs = new LinkedList<>();
 
-        if(result.size() == level){
-            result.add(level, root.val);
-        }
+        if(root == null) return result;
         
-        helper(root.right, level+1);
-        helper(root.left, level+1);
+        bfs.add(root);
+
+        while (!bfs.isEmpty()) {
+
+            int size = bfs.size();
+
+            for (int i = 0; i < size; i++) {
+                TreeNode curr = bfs.poll();
+
+                if (curr.left != null) {
+                    bfs.add(curr.left);
+                }
+                if (curr.right != null) {
+                    bfs.add(curr.right);
+                }
+
+                if (i == size - 1) {
+                    result.add(curr.val);
+                }
+            }
+
+        }
+
+        return result;
+
     }
 }
