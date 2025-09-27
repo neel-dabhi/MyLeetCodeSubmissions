@@ -98,6 +98,7 @@
 | [0284-peeking-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
@@ -327,6 +328,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0284-peeking-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0303-range-sum-query-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0460-lfu-cache) |
@@ -717,6 +719,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0525-contiguous-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
