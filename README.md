@@ -45,6 +45,7 @@
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0923-super-egg-drop](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0923-super-egg-drop) |
 | [0947-online-election](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0947-online-election) |
 | [1046-max-consecutive-ones-iii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
@@ -131,6 +132,7 @@
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
 | [0862-find-and-replace-in-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0862-find-and-replace-in-string) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0945-snakes-and-ladders](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0945-snakes-and-ladders) |
 | [0947-online-election](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0947-online-election) |
 | [0960-minimize-malware-spread](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0960-minimize-malware-spread) |
@@ -280,6 +282,7 @@
 | [0413-arithmetic-slices](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -297,6 +300,7 @@
 | [0621-task-scheduler](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1014-k-closest-points-to-origin](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
@@ -565,6 +569,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Iterator
 |  |
@@ -721,6 +726,7 @@
 | [0238-product-of-array-except-self](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0525-contiguous-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Function
@@ -793,4 +799,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
