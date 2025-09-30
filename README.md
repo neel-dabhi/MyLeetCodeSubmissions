@@ -143,6 +143,7 @@
 | [0971-shortest-bridge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0971-shortest-bridge) |
 | [0974-reorder-data-in-log-files](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0974-reorder-data-in-log-files) |
 | [0978-valid-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0978-valid-mountain-array) |
+| [0983-validate-stack-sequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0983-validate-stack-sequences) |
 | [0990-verifying-an-alien-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1025-minimum-cost-for-tickets) |
@@ -495,6 +496,7 @@
 | [0503-next-greater-element-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0739-daily-temperatures) |
+| [0983-validate-stack-sequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0983-validate-stack-sequences) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Recursion
 |  |
@@ -720,6 +722,7 @@
 | [0054-spiral-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
+| [0983-validate-stack-sequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0983-validate-stack-sequences) |
 | [1119-robot-bounded-in-circle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1119-robot-bounded-in-circle) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1708-design-parking-system](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1708-design-parking-system) |
