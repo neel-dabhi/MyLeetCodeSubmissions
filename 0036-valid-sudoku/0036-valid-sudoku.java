@@ -1,26 +1,29 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        HashSet<String> set = new HashSet<String>();
+        int size = board.length;
+        HashSet<String> set = new HashSet<>();
 
-        for(int i=0; i< board.length; i++){
-            for(int j=0; j < board[0].length; j++){
+        for (int row = 0; row < size; row++) {
+            for (int col = 0; col < size; col++) {
+                char curr = board[row][col];
 
-                if(board[i][j] != '.'){
-                    String rowString = "r" + i + board[i][j];
-                    String colString = "c" + j + board[i][j];
-                    String gridString = "b" + (i/3) + "" + (j/3) + board[i][j];
-
-                
-                    if(set.contains(rowString) || set.contains(colString) || set.contains(gridString) ){
-                        return false;
-                    }
-                    set.add(rowString);
-                    set.add(colString);
-                    set.add(gridString);
+                if (curr == '.') {
+                    continue;
                 }
+
+                String currR = curr + "R" + Integer.toString(row);
+                String currC = curr + "C" + Integer.toString(col);
+                String currB = curr + "R" + Integer.toString(row / 3) + Integer.toString(col / 3);
+
+                if (set.contains(currR) || set.contains(currC) || set.contains(currB)) {
+                    return false;
+                }
+
+                set.add(currR);
+                set.add(currC);
+                set.add(currB);
             }
         }
-
         return true;
     }
 }
