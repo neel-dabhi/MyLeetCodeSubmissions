@@ -479,6 +479,7 @@
 | [0409-longest-palindrome](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0648-replace-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0648-replace-words) |
+| [0649-dota2-senate](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0649-dota2-senate) |
 | [0720-longest-word-in-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
@@ -605,6 +606,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
+| [0649-dota2-senate](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0649-dota2-senate) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Iterator
@@ -743,6 +745,7 @@
 | [0409-longest-palindrome](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0738-monotone-increasing-digits) |
 | [0768-partition-labels](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0768-partition-labels) |
