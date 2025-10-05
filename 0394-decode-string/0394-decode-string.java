@@ -1,35 +1,43 @@
 class Solution {
-    public String decodeString(String s) {
-        int num = 0;
-        StringBuilder currString = new StringBuilder();
 
-        Stack<Integer> numSt = new Stack<Integer>();
-        Stack<StringBuilder> strSt = new Stack<StringBuilder>();
+    Stack<Character> st = new Stack<>();
+
+    public String decodeString(String s) {
 
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
 
-            if (ch == '[') {
-                numSt.push(num);
-                strSt.push(currString);
-                num = 0;
-                currString = new StringBuilder();
-                
-            } else if (ch == ']') {
-                int count = numSt.pop();
-                StringBuilder sb = new StringBuilder();
-
-                for(int j=0; j< count; j++){
-                    sb.append(currString);
+            if (ch == ']') {
+                // pop unitll [
+                StringBuilder str = new StringBuilder();
+                while (st.peek() != '[') {
+                    str.insert(0, st.pop());
                 }
-                currString = strSt.pop().append(sb);
-                
-            } else if (Character.isDigit(ch)) {
-                num = num * 10 + ch - '0';
+
+                st.pop(); // pop [
+
+                // pop unitl isDigit
+                StringBuilder num = new StringBuilder();
+                while (!st.isEmpty() && Character.isDigit(st.peek())) {
+                    num.insert(0, st.pop());
+                }
+
+                for (int j = 0; j < Integer.parseInt(num.toString()); j++) {
+                    for (char curr : (str.toString()).toCharArray()) {
+                        st.push(curr);
+                    }
+                }
             } else {
-                currString.append(ch);
+                st.push(ch);
             }
         }
-        return currString.toString();
+
+        StringBuilder sb = new StringBuilder();
+
+        while (!st.isEmpty()) {
+            sb.insert(0, st.pop());
+        }
+
+        return sb.toString();
     }
 }
