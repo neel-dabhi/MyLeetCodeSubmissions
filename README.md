@@ -47,6 +47,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0923-super-egg-drop](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0923-super-egg-drop) |
@@ -138,6 +139,7 @@
 | [0739-daily-temperatures](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0740-delete-and-earn) |
 | [0792-binary-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
 | [0862-find-and-replace-in-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0862-find-and-replace-in-string) |
@@ -317,6 +319,7 @@
 | [0621-task-scheduler](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
+| [0794-swim-in-rising-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1014-k-closest-points-to-origin](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1014-k-closest-points-to-origin) |
 | [2413-smallest-number-in-infinite-set](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2413-smallest-number-in-infinite-set) |
@@ -594,6 +597,7 @@
 | [0529-minesweeper](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0529-minesweeper) |
 | [0690-employee-importance](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0794-swim-in-rising-water) |
 | [0960-minimize-malware-spread](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0960-minimize-malware-spread) |
 | [0971-shortest-bridge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0975-range-sum-of-bst) |
@@ -646,6 +650,7 @@
 | [0529-minesweeper](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0971-shortest-bridge) |
@@ -673,6 +678,7 @@
 | [0542-01-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0960-minimize-malware-spread) |
 | [0971-shortest-bridge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0971-shortest-bridge) |
@@ -710,6 +716,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0200-number-of-islands) |
+| [0794-swim-in-rising-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0794-swim-in-rising-water) |
 | [0960-minimize-malware-spread](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0960-minimize-malware-spread) |
 ## Graph
 |  |
