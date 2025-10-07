@@ -17,6 +17,7 @@
 | [0273-integer-to-english-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0273-integer-to-english-words) |
 | [0670-maximum-swap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0738-monotone-increasing-digits) |
+| [0912-random-pick-with-weight](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0912-random-pick-with-weight) |
 | [0923-super-egg-drop](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0923-super-egg-drop) |
 | [1014-k-closest-points-to-origin](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1014-k-closest-points-to-origin) |
 | [1033-broken-calculator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1033-broken-calculator) |
@@ -50,6 +51,7 @@
 | [0794-swim-in-rising-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0912-random-pick-with-weight](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0912-random-pick-with-weight) |
 | [0923-super-egg-drop](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0923-super-egg-drop) |
 | [0947-online-election](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0947-online-election) |
 | [1046-max-consecutive-ones-iii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
@@ -146,6 +148,7 @@
 | [0862-find-and-replace-in-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0862-find-and-replace-in-string) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0912-random-pick-with-weight](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0912-random-pick-with-weight) |
 | [0945-snakes-and-ladders](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0945-snakes-and-ladders) |
 | [0947-online-election](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0947-online-election) |
 | [0960-minimize-malware-spread](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0960-minimize-malware-spread) |
@@ -786,6 +789,7 @@
 | [0303-range-sum-query-immutable](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0525-contiguous-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0912-random-pick-with-weight](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Function
@@ -870,4 +874,8 @@
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2413-smallest-number-in-infinite-set) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
