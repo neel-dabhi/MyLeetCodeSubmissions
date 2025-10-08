@@ -187,6 +187,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3483-alternating-groups-ii) |
 ## Divide and Conquer
@@ -795,6 +796,7 @@
 | [1708-design-parking-system](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1708-design-parking-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
