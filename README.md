@@ -46,6 +46,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0794-swim-in-rising-water) |
@@ -122,6 +123,7 @@
 | [0354-russian-doll-envelopes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0406-queue-reconstruction-by-height) |
+| [0410-split-array-largest-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
@@ -417,6 +419,7 @@
 | [0312-burst-balloons](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0354-russian-doll-envelopes) |
+| [0410-split-array-largest-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0413-arithmetic-slices) |
 | [0518-coin-change-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
@@ -765,6 +768,7 @@
 | [0135-candy](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0649-dota2-senate) |
@@ -796,6 +800,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0525-contiguous-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0912-random-pick-with-weight) |
