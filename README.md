@@ -189,6 +189,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3483-alternating-groups-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -813,6 +814,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Function
