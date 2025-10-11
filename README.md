@@ -63,6 +63,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Array
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3483-alternating-groups-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -257,6 +259,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
 |  |
 | ------- |
@@ -285,6 +288,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
 | ------- |
@@ -314,6 +318,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1675-magnetic-force-between-two-balls](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sliding Window
 |  |
 | ------- |
@@ -436,6 +441,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1129-longest-string-chain) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
 | ------- |
@@ -832,6 +838,7 @@
 | [1708-design-parking-system](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1708-design-parking-system) |
 | [2308-divide-array-into-equal-pairs](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Number Theory
 |  |
 | ------- |
