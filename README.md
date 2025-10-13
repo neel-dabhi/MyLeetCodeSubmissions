@@ -521,6 +521,7 @@
 | [0807-custom-sort-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0807-custom-sort-string) |
 | [0862-find-and-replace-in-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0862-find-and-replace-in-string) |
 | [0874-backspace-string-compare](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0886-score-of-parentheses) |
 | [0974-reorder-data-in-log-files](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0974-reorder-data-in-log-files) |
 | [0990-verifying-an-alien-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1080-camelcase-matching](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1080-camelcase-matching) |
@@ -558,6 +559,7 @@
 | [0735-asteroid-collision](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0983-validate-stack-sequences) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
