@@ -1,19 +1,17 @@
 class Solution {
     public List<String> removeAnagrams(String[] words) {
-        Stack<String> st = new Stack<>();
-
-        for (String word : words) {
-            if (!st.isEmpty() && isAnagram(st.peek(), word)) {
-                continue;
-            }
-            st.push(word);
-        }
 
         ArrayList<String> result = new ArrayList<>();
+        String last = "";
 
-        while (!st.isEmpty()) {
-            result.add(0, st.pop());
+        for (String word : words) {
+            if (result.size() > 0 && isAnagram(last, word)) {
+                continue;
+            }
+            last = word;
+            result.add(word);
         }
+
         return result;
     }
 
