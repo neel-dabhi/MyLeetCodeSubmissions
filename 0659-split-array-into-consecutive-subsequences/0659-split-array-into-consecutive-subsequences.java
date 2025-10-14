@@ -8,7 +8,9 @@ class Solution {
         }
 
         for (int num : nums) {
-            if (canJoinMap.containsKey(num) && freqMap.containsKey(num)) {
+            if(!freqMap.containsKey(num)) continue;
+            
+            if (canJoinMap.containsKey(num)) {
                 // num can join existing subsequences
 
                 freqMap.put(num, freqMap.get(num) - 1);
@@ -22,7 +24,7 @@ class Solution {
                 // create num + 1 in canJoinMap
                 canJoinMap.put(num + 1, canJoinMap.getOrDefault(num + 1, 0) + 1);
 
-            } else if (freqMap.containsKey(num)) {
+            } else {
                 // if num cant join existing, check if it can build its own subsequences
                 if (freqMap.containsKey(num + 1) && freqMap.containsKey(num + 2)) {
                     // can build their own subsequence
