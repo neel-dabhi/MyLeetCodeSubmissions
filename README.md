@@ -176,6 +176,7 @@
 | [1097-stream-of-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1097-stream-of-characters) |
 | [1121-partition-array-for-maximum-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1129-longest-string-chain) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -254,6 +255,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1129-longest-string-chain) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1612-avoid-flood-in-the-city](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1612-avoid-flood-in-the-city) |
@@ -317,6 +319,7 @@
 | [0974-reorder-data-in-log-files](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1014-k-closest-points-to-origin) |
 | [1129-longest-string-chain](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1129-longest-string-chain) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1675-magnetic-force-between-two-balls](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -530,6 +533,7 @@
 | [1119-robot-bounded-in-circle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1119-robot-bounded-in-circle) |
 | [1129-longest-string-chain](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1129-longest-string-chain) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
