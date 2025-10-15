@@ -64,6 +64,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Array
 |  |
 | ------- |
@@ -198,6 +199,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3483-alternating-groups-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Divide and Conquer
 |  |
