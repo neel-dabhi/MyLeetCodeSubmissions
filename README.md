@@ -540,6 +540,7 @@
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
@@ -816,6 +817,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1612-avoid-flood-in-the-city](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1612-avoid-flood-in-the-city) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Simulation
 |  |
 | ------- |
