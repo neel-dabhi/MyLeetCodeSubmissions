@@ -287,6 +287,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0768-partition-labels) |
@@ -310,6 +311,7 @@
 | [0088-merge-sorted-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0354-russian-doll-envelopes) |
@@ -352,6 +354,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -394,6 +397,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0284-peeking-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0303-range-sum-query-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0341-flatten-nested-list-iterator) |
@@ -923,6 +927,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0937-online-stock-span) |
 | [1097-stream-of-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1097-stream-of-characters) |
 ## Bucket Sort
