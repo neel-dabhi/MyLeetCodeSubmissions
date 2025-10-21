@@ -19,6 +19,7 @@
 | [0738-monotone-increasing-digits](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0738-monotone-increasing-digits) |
 | [0912-random-pick-with-weight](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0912-random-pick-with-weight) |
 | [0923-super-egg-drop](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0923-super-egg-drop) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1014-k-closest-points-to-origin) |
 | [1033-broken-calculator](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1033-broken-calculator) |
 | [1119-robot-bounded-in-circle](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1119-robot-bounded-in-circle) |
@@ -161,6 +162,7 @@
 | [0912-random-pick-with-weight](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0912-random-pick-with-weight) |
 | [0945-snakes-and-ladders](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0945-snakes-and-ladders) |
 | [0947-online-election](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0947-online-election) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0960-minimize-malware-spread](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0960-minimize-malware-spread) |
 | [0967-minimum-falling-path-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0971-shortest-bridge) |
@@ -259,6 +261,7 @@
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
 | [0862-find-and-replace-in-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0862-find-and-replace-in-string) |
 | [0947-online-election](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0947-online-election) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0960-minimize-malware-spread](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0960-minimize-malware-spread) |
 | [0990-verifying-an-alien-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1039-find-the-town-judge) |
@@ -876,6 +879,7 @@
 | [0347-top-k-frequent-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1708-design-parking-system](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1708-design-parking-system) |
 | [2308-divide-array-into-equal-pairs](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -883,6 +887,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2610-closest-prime-numbers-in-range](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2610-closest-prime-numbers-in-range) |
 ## String Matching
 |  |
