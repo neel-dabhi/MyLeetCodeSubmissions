@@ -52,6 +52,7 @@
 | [0658-find-k-closest-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0794-swim-in-rising-water) |
+| [0808-number-of-matching-subsequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0808-number-of-matching-subsequences) |
 | [0853-most-profit-assigning-work](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -153,6 +154,7 @@
 | [0740-delete-and-earn](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0740-delete-and-earn) |
 | [0792-binary-search](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0794-swim-in-rising-water) |
+| [0808-number-of-matching-subsequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0808-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
 | [0853-most-profit-assigning-work](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0853-most-profit-assigning-work) |
@@ -257,6 +259,7 @@
 | [0768-partition-labels](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0807-custom-sort-string) |
+| [0808-number-of-matching-subsequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0808-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
 | [0862-find-and-replace-in-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0862-find-and-replace-in-string) |
@@ -328,6 +331,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0807-custom-sort-string) |
+| [0808-number-of-matching-subsequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0808-number-of-matching-subsequences) |
 | [0853-most-profit-assigning-work](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0853-most-profit-assigning-work) |
 | [0862-find-and-replace-in-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0862-find-and-replace-in-string) |
 | [0974-reorder-data-in-log-files](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0974-reorder-data-in-log-files) |
@@ -459,6 +463,7 @@
 | [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0740-delete-and-earn) |
+| [0808-number-of-matching-subsequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0808-number-of-matching-subsequences) |
 | [0923-super-egg-drop](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0923-super-egg-drop) |
 | [0967-minimum-falling-path-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1025-minimum-cost-for-tickets) |
@@ -542,6 +547,7 @@
 | [0768-partition-labels](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0807-custom-sort-string) |
+| [0808-number-of-matching-subsequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0808-number-of-matching-subsequences) |
 | [0862-find-and-replace-in-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0862-find-and-replace-in-string) |
 | [0874-backspace-string-compare](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0886-score-of-parentheses) |
@@ -694,6 +700,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
+| [0808-number-of-matching-subsequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0808-number-of-matching-subsequences) |
 | [1080-camelcase-matching](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1080-camelcase-matching) |
 | [1097-stream-of-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1097-stream-of-characters) |
 ## Matrix
