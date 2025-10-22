@@ -61,6 +61,7 @@
 | [0947-online-election](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0947-online-election) |
 | [1046-max-consecutive-ones-iii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1612-avoid-flood-in-the-city](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -185,6 +186,7 @@
 | [1129-longest-string-chain](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1129-longest-string-chain) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1612-avoid-flood-in-the-city](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1612-avoid-flood-in-the-city) |
