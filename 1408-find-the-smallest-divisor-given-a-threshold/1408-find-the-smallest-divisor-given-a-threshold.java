@@ -10,7 +10,7 @@ class Solution {
         while (low <= high) {
             int divisor = low + (high - low) / 2;
 
-            if (getSum(nums, divisor) <= threshold) {
+            if (getSum(nums, divisor, threshold) <= threshold) {
                 answer = divisor;
                 high = divisor - 1;
             } else {
@@ -22,12 +22,14 @@ class Solution {
 
     }
 
-    private int getSum(int[] nums, int divisor) {
+    private int getSum(int[] nums, int divisor, int threshold) {
         int sum = 0;
         for (int i : nums) {
             sum = sum + ((i + divisor - 1) / divisor);
+            if (sum > threshold){
+                return sum;
+            }
         }
-
         return sum;
     }
 }
