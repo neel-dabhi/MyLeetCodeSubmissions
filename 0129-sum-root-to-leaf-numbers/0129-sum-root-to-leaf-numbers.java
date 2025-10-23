@@ -22,10 +22,9 @@ class Solution {
     }
 
     private void helper(TreeNode root, int total) {
-        if (root == null) {
+        if(root==null){
             return;
         }
-
         total = (total * 10) + root.val;
 
         if (root.left == null && root.right == null) {
