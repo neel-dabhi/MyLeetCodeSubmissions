@@ -14,27 +14,21 @@
  * }
  */
 class Solution {
-    TreeNode prev;
-
     public boolean isValidBST(TreeNode root) {
-        return inorder(root);
+        return helper(root, null, null);
     }
 
-    private boolean inorder(TreeNode root) {
-        if (root == null){
+    private boolean helper(TreeNode root, Integer min, Integer max) {
+        // base case
+        if (root == null) {
             return true;
         }
-            
-        boolean left = inorder(root.left);
-        boolean right = true;
 
-        if (prev != null && prev.val >= root.val) {
+        if ((min != null && root.val <= min) || (max != null && root.val >= max)) {
             return false;
         }
-        prev = root;
-        if (left) {
-            right = inorder(root.right);
-        }
-        return left && right;
+
+        return helper(root.left, min, root.val) && helper(root.right, root.val, max);
+
     }
 }
