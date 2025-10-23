@@ -244,6 +244,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0355-design-twitter) |
@@ -541,6 +542,7 @@
 | [0273-integer-to-english-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0399-evaluate-division) |
@@ -890,6 +892,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0778-reorganize-string) |
