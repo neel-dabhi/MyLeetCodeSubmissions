@@ -184,6 +184,7 @@
 | [1097-stream-of-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1097-stream-of-characters) |
 | [1121-partition-array-for-maximum-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1129-longest-string-chain) |
+| [1207-delete-nodes-and-return-forest](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -273,6 +274,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1129-longest-string-chain) |
+| [1207-delete-nodes-and-return-forest](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -643,6 +645,7 @@
 | [0975-range-sum-of-bst](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1035-cousins-in-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -680,6 +683,7 @@
 | [0975-range-sum-of-bst](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1035-cousins-in-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1300-critical-connections-in-a-network](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1300-critical-connections-in-a-network) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Queue
@@ -791,6 +795,7 @@
 | [0975-range-sum-of-bst](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1035-cousins-in-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Union Find
 |  |
