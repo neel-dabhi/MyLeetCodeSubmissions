@@ -10,25 +10,22 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        // find mid
-        // reverse
-        // merge
 
-        ListNode fast = head.next;
+        // find the mid
         ListNode slow = head;
+        ListNode fast = head;
 
-        //find mid
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
 
+        // reverse the half
         fast = reverse(slow.next);
-        // unlink two LL
         slow.next = null;
-        //move slow to start
         slow = head;
-        //merge
+
+        // merge the list
         while (fast != null) {
             ListNode temp = slow.next;
             slow.next = fast;
@@ -36,15 +33,17 @@ class Solution {
             slow.next.next = temp;
             slow = temp;
         }
+
     }
 
-    private ListNode reverse(ListNode current) {
+    private ListNode reverse(ListNode head) {
         ListNode prev = null;
-        while (current != null) {
-            ListNode temp = current.next;
-            current.next = prev;
-            prev = current;
-            current = temp;
+
+        while (head != null) {
+            ListNode next = head.next;
+            head.next = prev;
+            prev = head;
+            head = next;
         }
         return prev;
     }
