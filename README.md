@@ -30,6 +30,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -507,6 +508,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bitmask
 |  |
 | ------- |
