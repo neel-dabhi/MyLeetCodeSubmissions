@@ -193,6 +193,7 @@
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1612-avoid-flood-in-the-city](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -483,6 +484,7 @@
 | [1121-partition-array-for-maximum-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1129-longest-string-chain) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
@@ -611,6 +613,7 @@
 | [0937-online-stock-span](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0983-validate-stack-sequences) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Recursion
 |  |
 | ------- |
@@ -859,6 +862,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1612-avoid-flood-in-the-city](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -942,6 +946,7 @@
 | [0503-next-greater-element-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0937-online-stock-span) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Counting Sort
 |  |
 | ------- |
