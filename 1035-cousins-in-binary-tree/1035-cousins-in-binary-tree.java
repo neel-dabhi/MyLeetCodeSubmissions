@@ -14,55 +14,47 @@
  * }
  */
 class Solution {
-    Queue<TreeNode> pq = new LinkedList<TreeNode>();
-    Queue<TreeNode> q = new LinkedList<TreeNode>();
-    TreeNode x_parent = null;
-    TreeNode y_parent = null;
-    boolean xFound = false;
-    boolean yFound = false;
-    int x_level = -1;
-    int y_level = -1;
-    int level = 1;
-
     public boolean isCousins(TreeNode root, int x, int y) {
-        q.add(root);
-        pq.add(null);
+        Queue<TreeNode> bfs = new LinkedList<>();
+        bfs.add(root);
 
-        while (!q.isEmpty()) {
-            int size = q.size();
+        boolean xFound = false;
+        boolean yFound = false;
+
+        while (!bfs.isEmpty()) {
+            int size = bfs.size();
+
             for (int i = 0; i < size; i++) {
-                TreeNode curr = q.poll();
-                TreeNode currParent = pq.poll();
+                TreeNode curr = bfs.poll();
+
+                if (curr.left != null && curr.right != null) {
+                    if ((curr.left.val == x || curr.left.val == y) && (curr.right.val == x || curr.right.val == y)) {
+                        return false;
+                    }
+                }
 
                 if (curr.val == x) {
-                    x_parent = currParent;
                     xFound = true;
-                    x_level = level;
-                } else if (curr.val == y) {
-                    y_parent = currParent;
+                }
+                if (curr.val == y) {
                     yFound = true;
-                    y_level = level;
+                }
+                if (curr.left != null) {
+                    bfs.add(curr.left);
                 }
 
                 if (curr.right != null) {
-                    q.add(curr.right);
-                    pq.add(curr);
+                    bfs.add(curr.right);
                 }
 
-                if (curr.left != null) {
-                    q.add(curr.left);
-                    pq.add(curr);
-                }
             }
-            level++;
-        }  
 
-
-        if (xFound && yFound && x_level == y_level) {
-            return !(x_parent.val == y_parent.val);
-        } else {
-            return false;
+            if ((!xFound && yFound) || (xFound && !yFound)) {
+                return false;
+            }
         }
-    }
 
+        return xFound && yFound;
+
+    }
 }
