@@ -30,6 +30,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
@@ -212,6 +213,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3483-alternating-groups-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -289,6 +291,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
