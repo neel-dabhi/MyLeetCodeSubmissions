@@ -1,21 +1,27 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
-        Set<Integer> set = new HashSet<>();
-        List<Integer> list = new ArrayList<>();
+        int n = nums.length;
+        int[] result = new int[2];
+        int idx = 0;
 
-        for (int i : nums) {
-            if (set.contains(i)) {
-                list.add(i);
+        for (int i = 0; i < n; i++) {
+            int v = Math.abs(nums[i]);
+
+            if (v == n) {
+                v = 0;
+            }
+
+            if (nums[v] >= 0) {
+                if (nums[v] == 0) {
+                    nums[v] = -n;
+                } else {
+                    nums[v] = -nums[v];
+                }
             } else {
-                set.add(i);
+                result[idx] = v;
+                idx++;
             }
         }
-
-        int[] result = new int[list.size()];
-        for (int i = 0; i < list.size(); i++) {
-            result[i] = list.get(i);
-        }
-
         return result;
     }
 }
