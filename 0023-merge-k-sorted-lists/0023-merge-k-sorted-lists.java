@@ -10,26 +10,43 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        PriorityQueue<ListNode> q = new PriorityQueue<>((a, b) -> a.val - b.val);
-        ListNode result = new ListNode(-1);
-        ListNode curr = result;
-        for (ListNode node : lists) {
-            if (node != null) {
-                q.add(node);
+        // go over the lists to get head
+        // prune the PQ (min)
+        // get the min, attech to result
+        // put min.next if not null to PQ
+
+        ListNode dummy = new ListNode(-1);
+        ListNode result = dummy;
+
+        if (lists.length == 0) {
+            return dummy.next;
+        }
+
+        PriorityQueue<ListNode> pq = new PriorityQueue<>((a, b) -> a.val - b.val);
+        for (int i = 0; i < lists.length; i++) {
+            if(lists[i] !=null ){
+                pq.add(lists[i]);
             }
         }
 
-        while (!q.isEmpty()) {
-            ListNode minNode = q.poll();
-            curr.next = minNode;
-            curr = curr.next;
+        if (pq.size() == 0) {
+            return dummy.next;
+        }
 
-            if (minNode.next != null) {
-                q.add(minNode.next);
+        while (!pq.isEmpty()) {
+            ListNode min = pq.poll();
+            ListNode next = min.next;
+
+            // append to result
+            result.next = min;
+            result = result.next;
+
+            // add next pointer to PQ
+            if (next != null) {
+                pq.add(next);
             }
         }
 
-        return result.next;
-
+        return dummy.next;
     }
 }
