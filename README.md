@@ -198,6 +198,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -492,6 +493,7 @@
 | [1129-longest-string-chain](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1129-longest-string-chain) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
@@ -585,6 +587,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -873,6 +876,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1612-avoid-flood-in-the-city](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
