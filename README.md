@@ -217,6 +217,7 @@
 | [3483-alternating-groups-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -296,6 +297,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -376,6 +378,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3483-alternating-groups-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -396,6 +399,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1612-avoid-flood-in-the-city) |
 | [2413-smallest-number-in-infinite-set](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2479-meeting-rooms-iii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2479-meeting-rooms-iii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
 |  |
 | ------- |
