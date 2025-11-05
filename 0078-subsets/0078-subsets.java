@@ -1,27 +1,20 @@
 class Solution {
-    List<List<Integer>> result;
-
     public List<List<Integer>> subsets(int[] nums) {
-        result = new ArrayList<List<Integer>>();
-        helper(nums, new ArrayList<Integer>(), 0);
+        List<List<Integer>> result = new ArrayList<>();
+        subsetsHelper(nums, 0, new ArrayList<>(), result);
         return result;
     }
 
-    private void helper(int[] nums, ArrayList<Integer> path, int index) {
-
-        // base 
-        if (index == nums.length) {
+    private void subsetsHelper(int[] nums, int idx, List<Integer> path, List<List<Integer>> result) {
+        if (idx == nums.length) {
             result.add(new ArrayList(path));
             return;
         }
 
-        // not choose
-        helper(nums, path, index + 1);
+        path.add(nums[idx]);
+        subsetsHelper(nums, idx + 1, path, result);
 
-        // choose
-        path.add(nums[index]);
-        helper(nums, path, index + 1);
         path.remove(path.size() - 1);
-
+        subsetsHelper(nums, idx + 1, path, result);
     }
 }
