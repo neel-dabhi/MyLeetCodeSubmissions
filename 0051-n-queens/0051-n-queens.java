@@ -1,78 +1,87 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> result = new ArrayList<List<String>>();
+        List<List<String>> result = new ArrayList<>();
         boolean[][] board = new boolean[n][n];
-        backtrack(board, result, 0);
+        helpSolveNQueens(board, 0, result);
         return result;
     }
 
-    private void backtrack(boolean[][] board, List<List<String>> result, int row) {
-        if (row == board.length) {
-            ArrayList<String> b = new ArrayList<String>();
-
-            for (int r = 0; r < board.length; r++) {
-                StringBuffer sb = new StringBuffer();
-
-                for (int c = 0; c < board.length; c++) {
-                    if (board[r][c] == true) {
-                        sb.append('Q');
-                    } else {
-                        sb.append('.');
-                    }
-                }
-
-                b.add(sb.toString());
-            }
-
-            result.add(b);
+    private void helpSolveNQueens(boolean[][] board, int row, List<List<String>> result){
+        // base cases
+        int n = board.length;
+        if(row == n){
+            result.add(covertBoardToList(board));
+            return;
         }
 
-        for (int j = 0; j < board.length; j++) {
-
-            if (isSafe(board, row, j)) {
-                // action 
+        // for row check every col if its valid to place queen
+        for(int j=0; j<n; j++){
+            if(isSafe(board, row, j)){
                 board[row][j] = true;
-                // recurse
-                backtrack(board, result, row + 1);
-                //backtrack
+                helpSolveNQueens(board,row + 1, result);
                 board[row][j] = false;
             }
-
         }
-
     }
 
-    private boolean isSafe(boolean[][] board, int r, int c) {
+    private boolean isSafe(boolean[][] board, int row, int col){
+        int n = board.length;
 
-        // check col up
-        for (int row = 0; row < r; row++) {
-            if (board[row][c] == true) {
+        // check col above
+        for(int i=0; i < row; i++){
+            if(board[i][col]){
                 return false;
             }
         }
 
-        // check left diagonal
-        int i = r;
-        int j = c;
-        while (i >= 0 && j >= 0) {
-            if (board[i][j] == true) {
+        // check row before
+        for(int i=0; i<col; i++){
+            if(board[row][i]){
                 return false;
             }
-            i--;
-            j--;
         }
 
-        // check right diagonal
-        i = r;
-        j = c;
-        while (i >= 0 && j < board.length) {
-            if (board[i][j] == true) {
+        // check diagonal up left
+        int r = row;
+        int c = col;
+        while( r >= 0 && c >= 0){
+            if(board[r][c]){
                 return false;
             }
-            i--;
-            j++;
+            r--;
+            c--;
+        }
+
+        // check diagonal up right
+        r = row;
+        c = col;
+
+        while( r >= 0 && c < n){
+            if(board[r][c]){
+                return false;
+            }
+            r--;
+            c++;
         }
 
         return true;
+    }
+
+    private List<String> covertBoardToList(boolean[][] board){
+        int n = board.length;
+        List<String> fullBoard = new ArrayList<>(); 
+        
+        for(int i=0; i<n; i++){
+            StringBuilder row = new StringBuilder();
+            for(int j=0; j<n; j++){
+                if(board[i][j]){
+                    row.append('Q');
+                }else{
+                    row.append('.');
+                }
+            }
+            fullBoard.add(row.toString());
+        }
+        return fullBoard;
     }
 }
