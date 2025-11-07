@@ -222,6 +222,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3863-power-grid-maintenance](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3863-power-grid-maintenance) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -298,6 +299,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -400,6 +402,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2479-meeting-rooms-iii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2479-meeting-rooms-iii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3863-power-grid-maintenance) |
 ## Linked List
 |  |
 | ------- |
@@ -710,6 +713,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1300-critical-connections-in-a-network](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1300-critical-connections-in-a-network) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3863-power-grid-maintenance](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
 | ------- |
@@ -795,6 +799,7 @@
 | [1035-cousins-in-binary-tree](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [3863-power-grid-maintenance](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -831,6 +836,7 @@
 | [0547-number-of-provinces](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0794-swim-in-rising-water) |
 | [0960-minimize-malware-spread](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0960-minimize-malware-spread) |
+| [3863-power-grid-maintenance](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -841,6 +847,7 @@
 | [0960-minimize-malware-spread](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1039-find-the-town-judge) |
 | [1300-critical-connections-in-a-network](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1300-critical-connections-in-a-network) |
+| [3863-power-grid-maintenance](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1006,6 +1013,7 @@
 | ------- |
 | [2357-count-integers-in-intervals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2357-count-integers-in-intervals) |
 | [2413-smallest-number-in-infinite-set](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2413-smallest-number-in-infinite-set) |
+| [3863-power-grid-maintenance](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3863-power-grid-maintenance) |
 ## Randomized
 |  |
 | ------- |
