@@ -1,52 +1,40 @@
 class Solution {
-    int[][] dirs = { { -1, 0 }, { 0, -1 }, { 1, 0 }, { 0, 1 } };
+    boolean result = false;
 
     public boolean exist(char[][] board, String word) {
-        int m = board.length;
-        int n = board[0].length;
+        int n = board.length;
+        int m = board[0].length;
+        boolean[][] visisted = new boolean[n][m];
+        int[][] dirs = { { 0, 1 }, { 0, -1 }, { 1, 0 }, { -1, 0 } };
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
+        for (int i = 0; i < n && !result; i++) {
+            for (int j = 0; j < m && !result; j++) {
                 if (board[i][j] == word.charAt(0)) {
-                    if (backtrack(board, word, 0, i, j)) {
-                        return true;
-                    }
+                    helper(board, i, j, word, 0, dirs, visisted);
                 }
             }
         }
-
-        return false;
+        return result;
     }
 
-    private boolean backtrack(char[][] board, String word, int index, int r, int c) {
-
-        // base case
-        if (index == word.length()) {
-            return true;
-        }
-        if (r == board.length || c == board[0].length || r < 0 || c < 0) {
-            return false;
+    private void helper(char[][] board, int r, int c, String word, int idx, int[][] dirs, boolean[][] visisted) {
+        // base 
+        if (idx == word.length() -1) {
+            result = true;
+            return;
         }
 
-        if (board[r][c] == word.charAt(index)) {
-            // action
-            board[r][c] = '.';
+        visisted[r][c] = true;
 
-            for (int[] dir : dirs) {
-                int row = r + dir[0];
-                int col = c + dir[1];
-
-                // recurse
-                if (backtrack(board, word, index + 1, row, col)) {
-                    return true;
-                }
-
+        for (int[] dir : dirs) {
+            int row = r + dir[0];
+            int col = c + dir[1];
+            if ( row >= 0 && row < board.length && col >= 0 && col < board[0].length && 
+                board[row][col] == word.charAt(idx + 1) && !visisted[row][col]) {
+                helper(board, row, col, word, idx + 1, dirs, visisted);
             }
-
-            // backtrack
-            board[r][c] = word.charAt(index);
         }
 
-        return false;
+        visisted[r][c] = false;
     }
 }
