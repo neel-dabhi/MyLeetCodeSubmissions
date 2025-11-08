@@ -1,22 +1,27 @@
-// TC : O(n)
-// SC : O(26) -> O(1)
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        HashMap<Character, Integer> map = new HashMap<>();
+
+        if (s.isEmpty())
+            return 0;
+
+        Set<Character> set = new HashSet<>();
+        int maxLen = 0;
+
         int left = 0;
         int right = 0;
-        int maxLength = 0;
-        while(right < s.length()) { 
-            Character currChar = s.charAt(right); 
-    
-            if (map.containsKey(currChar) && left <= map.get(currChar)) {
-                left = map.get(currChar) + 1;
-            } 
-            map.put(currChar, right);
-            right++;
-            maxLength = Math.max(maxLength, right - left);
-        }
 
-        return maxLength;
+        while (right < s.length()) {
+
+            while (set.contains(s.charAt(right))) {
+                set.remove(s.charAt(left));
+                left++;
+            }
+
+            set.add(s.charAt(right));
+            maxLen = Math.max(maxLen, right - left +1);
+            right++;
+        }
+        return maxLen;
+
     }
 }
