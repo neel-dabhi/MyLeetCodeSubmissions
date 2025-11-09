@@ -26,6 +26,7 @@
 | [1642-water-bottles](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2288-count-operations-to-obtain-zero](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2610-closest-prime-numbers-in-range](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -906,6 +907,7 @@
 | [1708-design-parking-system](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/1708-design-parking-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2479-meeting-rooms-iii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3347-distribute-elements-into-two-arrays-i) |
