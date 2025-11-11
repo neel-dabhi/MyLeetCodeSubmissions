@@ -138,6 +138,7 @@
 | [0413-arithmetic-slices](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
@@ -489,6 +490,7 @@
 | [0354-russian-doll-envelopes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0413-arithmetic-slices) |
+| [0474-ones-and-zeroes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0542-01-matrix) |
@@ -575,6 +577,7 @@
 | [0402-remove-k-digits](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0474-ones-and-zeroes) |
 | [0648-replace-words](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0649-dota2-senate) |
 | [0720-longest-word-in-dictionary](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
