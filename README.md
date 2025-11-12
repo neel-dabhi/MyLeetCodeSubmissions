@@ -30,6 +30,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3227-find-missing-and-repeated-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -211,6 +212,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3227-find-missing-and-repeated-values](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -951,6 +953,7 @@
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2610-closest-prime-numbers-in-range](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2610-closest-prime-numbers-in-range) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## String Matching
 |  |
 | ------- |
