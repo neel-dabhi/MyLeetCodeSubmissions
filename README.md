@@ -58,6 +58,7 @@
 | [0794-swim-in-rising-water](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0808-number-of-matching-subsequences) |
 | [0853-most-profit-assigning-work](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0853-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0912-random-pick-with-weight) |
@@ -167,6 +168,7 @@
 | [0817-design-hashmap](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0817-design-hashmap) |
 | [0853-most-profit-assigning-work](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0853-most-profit-assigning-work) |
 | [0862-find-and-replace-in-string](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0862-find-and-replace-in-string) |
+| [0875-koko-eating-bananas](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/neel-dabhi/MyLeetCodeSubmissions/tree/master/0912-random-pick-with-weight) |
