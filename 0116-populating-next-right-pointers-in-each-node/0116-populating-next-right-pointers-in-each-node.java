@@ -1,5 +1,3 @@
-// TC: O(n)
-// SC: O(1)
 /*
 // Definition for a Node.
 class Node {
@@ -25,19 +23,32 @@ class Node {
 
 class Solution {
     public Node connect(Node root) {
-        if (root == null) return null;
-        
-        helper(root.left, root.right);
+        if (root == null)
+            return null;
+
+        Queue<Node> bfs = new LinkedList<>();
+
+        bfs.add(root);
+
+        while (!bfs.isEmpty()) {
+            int size = bfs.size();
+
+            for (int i = 0; i < size; i++) {
+                Node curr = bfs.poll();
+
+                if (i != size - 1) {
+                    curr.next = bfs.peek();
+                } else {
+                    curr.next = null;
+                }
+
+                if (curr.left != null) {
+                    bfs.add(curr.left);
+                    bfs.add(curr.right);
+                }
+            }
+        }
+
         return root;
-    }
-
-    public void helper(Node left, Node right) {
-        if (left == null)
-            return;
-        left.next = right;
-        helper(left.left, left.right);
-        helper(right.left, right.right);
-        helper(left.right, right.left);
-
     }
 }
