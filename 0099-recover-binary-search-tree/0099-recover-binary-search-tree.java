@@ -1,6 +1,3 @@
-// TC : O(n)
-// SC : O(1)
-
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -17,36 +14,36 @@
  * }
  */
 class Solution {
-    TreeNode prev = null;
+
     TreeNode first = null;
     TreeNode second = null;
+    TreeNode prev = null;
 
     public void recoverTree(TreeNode root) {
-        helper(root);
-        int swapVal = first.val;
+        inorder(root);
+        // swap
+        int temp = first.val;
         first.val = second.val;
-        second.val = swapVal;
+        second.val = temp;
     }
 
-    private void helper(TreeNode curr) {
-        // Base Case
-        if (curr == null){
+    private void inorder(TreeNode root) {
+        if (root == null) {
             return;
         }
 
-        // in-order  
-        helper(curr.left);
+        inorder(root.left);
 
-        // prev should always be smaller than curr, BST in-order
-        if (prev != null && curr.val < prev.val) {
+        if (prev != null && root.val < prev.val) {
+
             if (first == null) {
                 first = prev;
-                second = curr;
+                second = root;
             }
-            second = curr;
+            second = root;
         }
-        prev = curr;
+        prev = root;
 
-        helper(curr.right);
+        inorder(root.right);
     }
 }
